@@ -8,7 +8,7 @@
     <link rel="icon" href="{{ asset('image/image-logo.png') }}">
 
     <!-- CSS and Script Resource -->
-    @vite(['resources/css/homepage.css','resources/css/login.css','resources/css/admission.css', 'resources/js/homepage.js', 'resources/js/login.js'])
+    @vite(['resources/css/homepage.css','resources/css/login.css','resources/css/admission.css'])
 
     <!-- Box Icons -->
     <link
@@ -244,19 +244,19 @@
             </ul>
             <div class="footer-contact">
                 <h3>Contact Us</h3>
-                <p>Location: University of Gondar, Gondar City</p>
-                <p>Email: info@kidsclub.com</p>
-                <p>Phone: +251 987 654 321</p>
+                <p>Location: Addis Ababa, Addis Ababa</p>
+                <p>Email: info@KGMS.com</p>
+                <p>Phone: +251 934 353657</p>
                 <div class="footer-social">
-                    <a href="www.facebook.com/kidsclub" class="social-icon" title="facebook"><i class='bx bxl-facebook-circle' style='color:#2c71f9'  ></i></a>
-                    <a href="www.instagram.com//kidsclub" class="social-icon" title="instagram"><i class='bx bxl-instagram-alt' style='color: #fd3c66;'  ></i></a>
-                    <a href="www.linkedin//kidsclub" class="social-icon" title="linkedin"><i class='bx bxl-linkedin-square' style='color:#2c69f9'  ></i></a>
-                    <a href="www.youtube.com//kidsclub" class="social-icon" title="youtube"><i class='bx bxl-youtube' style='color:#f92c41'  ></i></a>
+                    <a href="www.facebook.com/kgms" class="social-icon" title="facebook"><i class='bx bxl-facebook-circle' style='color:#2c71f9'  ></i></a>
+                    <a href="www.instagram.com//kgms" class="social-icon" title="instagram"><i class='bx bxl-instagram-alt' style='color: #fd3c66;'  ></i></a>
+                    <a href="www.linkedin//kgms" class="social-icon" title="linkedin"><i class='bx bxl-linkedin-square' style='color:#2c69f9'  ></i></a>
+                    <a href="www.youtube.com//kgms" class="social-icon" title="youtube"><i class='bx bxl-youtube' style='color:#f92c41'  ></i></a>
                 </div>
             </div>
         </div>
         <div class="">
-            2023 &copy; By Group Four
+            2024 &copy; By Our Group
         </div>
     </footer>
 </section>

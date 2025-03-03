@@ -3,7 +3,6 @@
 @section('content')
 
     @if(Session::has('success'))
-    
         <div class="bg-transparent d-flex justify-content-center fixed-bottom mb-3 p-3 ">
             <div id="flash-message" class="alert alert-success">
                 {{ Session::get('success') }}
