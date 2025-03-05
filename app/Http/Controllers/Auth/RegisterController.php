@@ -21,8 +21,7 @@ class RegisterController extends Controller
     |--------------------------------------------------------------------------
     |
     | This controller handles the registration of new users as well as their
-    | validation and creation. By default, this controller uses a trait to
-    | provide this functionality without requiring any additional code.
+    | validation and creation. 
     |
     */
 
@@ -77,7 +76,6 @@ class RegisterController extends Controller
             'unique_name' => ['required', 'string', 'max:255', 'unique:users'],
             'email' => ['required', 'string', 'email', 'max:255', 'unique:users'],
             'role' => ['required', 'string'],
-            
         ]);
     }
 

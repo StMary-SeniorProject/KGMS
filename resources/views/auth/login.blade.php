@@ -21,7 +21,7 @@
 
                 <label for="unique_name">Username:</label>
                 <input type="text" id="unique_name" name="unique_name" class="@error('unique_name') is-invalid @enderror"
-                       value="{{ old('unique_name') }}" required>
+                       value="{{ old('unique_name') }}" required autofocus>
 
                 <label for="password">Password:</label>
                 <input type="password" id="password" name="password" class="@error('password') is-invalid @enderror"

@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    <title>KGMS</title>
+    <title>Kids Club</title>
     <link rel="icon" href="{{ asset('image/image-logo.png') }}">
 
     <!-- CSS and Script Resource -->
@@ -561,9 +561,9 @@
     <div class="container">
         <div class="contacts-container">
             <div class="address">
-                <div><i class='bx bxs-location-plus'></i> Location: Addis Ababa, Ethiopia</div>
-                <div><i class='bx bxs-envelope'></i> Email: info@kidsclub.com</div>
-                <div><i class='bx bxs-phone'></i> Phone: +251 987 654 321</div>
+                <div><i class='bx bxs-location-plus'></i> Location: Addis Ababa, Addis Ababa</div>
+                <div><i class='bx bxs-envelope'></i> Email: info@kgms.com</div>
+                <div><i class='bx bxs-phone'></i> Phone: +251 953132370</div>
             </div>
 
             <p>
@@ -605,9 +605,9 @@
             </ul>
             <div class="footer-contact">
                 <h3>Contact Us</h3>
-                <p>Location: Addis Ababa, Ethiopia</p>
-                <p>Email: info@kidsclub.com</p>
-                <p>Phone: +251 987 654 321</p>
+                <p>Location: Addis Ababa, Addis Ababa</p>
+                <p>Email: info@kgms.com</p>
+                <p>Phone: +251 953 132370</p>
                 <div class="footer-social">
                     <a href="www.facebook.com/kidsclub" class="social-icon" title="facebook"><i
                             class='bx bxl-facebook-circle' style='color:#2c71f9'></i></a>
@@ -622,7 +622,7 @@
             </div>
         </div>
         <div class="">
-            2024 &copy; By Our Group
+            2025 &copy; By Our Group
         </div>
     </footer>
 </section>

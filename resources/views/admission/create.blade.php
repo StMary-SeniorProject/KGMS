@@ -268,9 +268,9 @@
             </ul>
             <div class="footer-contact">
                 <h3>Contact Us</h3>
-                <p>Location: Addis Ababa, Ethiopia</p>
-                <p>Email: info@kidsclub.com</p>
-                <p>Phone: +251 987 654 321</p>
+                <p>Location: Addis Ababa, Addis Ababa</p>
+                <p>Email: info@kgms.com</p>
+                <p>Phone: +251 953132370</p>
                 <div class="footer-social">
                     <a href="www.facebook.com/kidsclub" class="social-icon" title="facebook"><i
                             class='bx bxl-facebook-circle' style='color:#2c71f9'></i></a>
@@ -284,7 +284,7 @@
             </div>
         </div>
         <small class="">
-            2024 &copy; By Our Group
+            2025 &copy; By Our Group
         </small>
     </footer>
 </section>

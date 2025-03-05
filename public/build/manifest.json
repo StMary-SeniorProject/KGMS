@@ -1,45 +1,42 @@
 {
   "resources/css/admission.css": {
-    "file": "assets/admission-Df7K7va2.css",
-    "src": "resources/css/admission.css",
-    "isEntry": true
+    "file": "assets/admission-076e3de9.css",
+    "isEntry": true,
+    "src": "resources/css/admission.css"
   },
   "resources/css/app.css": {
-    "file": "assets/app-Ko7KnQBG.css",
-    "src": "resources/css/app.css",
-    "isEntry": true
+    "file": "assets/app-53596cdb.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
   },
   "resources/css/homepage.css": {
-    "file": "assets/homepage-l80uxQBh.css",
-    "src": "resources/css/homepage.css",
-    "isEntry": true
+    "file": "assets/homepage-7a020a04.css",
+    "isEntry": true,
+    "src": "resources/css/homepage.css"
   },
   "resources/css/login.css": {
-    "file": "assets/login-BWjFjpo0.css",
-    "src": "resources/css/login.css",
-    "isEntry": true
+    "file": "assets/login-858fb1df.css",
+    "isEntry": true,
+    "src": "resources/css/login.css"
   },
   "resources/js/app.js": {
-    "file": "assets/app-z-Rg4TxU.js",
-    "name": "app",
-    "src": "resources/js/app.js",
-    "isEntry": true
+    "file": "assets/app-00641376.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
   },
   "resources/js/homepage.js": {
-    "file": "assets/homepage-l0sNRNKZ.js",
-    "name": "homepage",
-    "src": "resources/js/homepage.js",
-    "isEntry": true
+    "file": "assets/homepage-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/homepage.js"
   },
   "resources/js/login.js": {
-    "file": "assets/login-l0sNRNKZ.js",
-    "name": "login",
-    "src": "resources/js/login.js",
-    "isEntry": true
+    "file": "assets/login-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/login.js"
   },
   "resources/sass/app.scss": {
-    "file": "assets/app-DIEaJtkm.css",
-    "src": "resources/sass/app.scss",
-    "isEntry": true
+    "file": "assets/app-effc87a6.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
   }
 }

@@ -172,8 +172,8 @@
                     accountName = 'John Doe';
 
                 } else if(selectedBank === 'bank2') {
-                    bankAccount = '1000303078577';
-                    accountName = 'Mikias Wondim';
+                    bankAccount = '1000163976599';
+                    accountName = 'Henok Tarekegn';
                 }
 
                 if (bankAccount) {

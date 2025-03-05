@@ -1,6 +1,6 @@
 /* Add your general styling here */
 
-.login-popup {
+  .login-popup {
     position: fixed;
     top: 0;
     left: 0;
@@ -8,18 +8,17 @@
     height: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     z-index: 999;
-}
-
-.log-img {
+  }
+  .log-img{
     height: 100px;
-}
+  }
 
-img.login-img {
+  img.login-img{
     height: 70px;
     padding-bottom: 20px;
-}
+  }
 
-.popup-content {
+  .popup-content {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -31,32 +30,32 @@ img.login-img {
     padding: 30px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
+  }
 
-.popup-content h2 {
+  .popup-content h2 {
     text-align: center;
     margin-bottom: 20px;
-}
+  }
 
-.popup-content form {
+  .popup-content form {
     display: flex;
     flex-direction: column;
-}
+  }
 
-.popup-content label {
+  .popup-content label {
     margin-bottom: 10px;
-}
+  }
 
-.close-button {
+  .close-button {
     background-color: #f44336;
-}
+  }
 
-.close-button:hover {
+  .close-button:hover {
     background-color: #da190b;
-}
+  }
 
-@media (max-width: 765px) {
-    .popup-content {
+  @media (max-width: 765px) {
+    .popup-content{
         width: fit-content;
     }
-}
+  }

@@ -160,9 +160,9 @@
             </ul>
             <div class="footer-contact">
                 <h3>Contact Us</h3>
-                <p>Location: University of Gondar, Gondar City</p>
-                <p>Email: info@kidsclub.com</p>
-                <p>Phone: +251 987 654 321</p>
+                <p>Location: Addis Ababa, Addis Ababa</p>
+                <p>Email: info@kgms.com</p>
+                <p>Phone: +251 953132370</p>
                 <div class="footer-social">
                     <a href="www.facebook.com/kidsclub" class="social-icon" title="facebook"><i class='bx bxl-facebook-circle' style='color:#2c71f9'  ></i></a>
                     <a href="www.instagram.com//kidsclub" class="social-icon" title="instagram"><i class='bx bxl-instagram-alt' style='color: #fd3c66;'  ></i></a>
@@ -172,7 +172,7 @@
             </div>
         </div>
         <div class="">
-            2023 &copy; By Group Four
+            2025 &copy; By Our Group
         </div>
     </footer>
 </section>
